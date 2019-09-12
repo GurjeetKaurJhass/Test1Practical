@@ -22,9 +22,8 @@ public class SnakeTest {
 	
 	
 	String ExpectedOutput="vegetables";
-	String ActualOutput ="";
 	
-	
+	assertEquals("ExpectedOutput","ActualOutput");
 		
 		
 		
